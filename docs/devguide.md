@@ -21,7 +21,7 @@
 
 **Модуль ключа на базе Seeed Studio XIAO ESP32C3**
 
-<img src="[AI Rhythm Key/docs/media/XIAO_ESP32.png](https://github.com/AI-devices/docs/blob/main/AI%20Rhythm%20Key/docs/media/XIAO_ESP32.png)https://github.com/AI-devices/docs/blob/main/AI%20Rhythm%20Key/docs/media/XIAO_ESP32.png" width=200px>
+<img src="media/XIAO_ESP32.png" width=200px>
 
 <details>
  <summary>Технические характеристики</summary>
