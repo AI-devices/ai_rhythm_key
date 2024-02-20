@@ -60,7 +60,7 @@
 
 </details>
 
-<img src="media/INMP441.png">
+<img src="media/INMP441.png" width=200>
 
 
 **Динамик DXI30N-A**
