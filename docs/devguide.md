@@ -27,4 +27,68 @@
  <summary>Технические характеристики</summary>
 </details>
 
+**Микрофон INMP441 **
+
+<img src="media/INMP441.png" width=200px>
+
+<details>
+ <summary>Технические характеристики</summary>
+</details>
+
+**Динамик DXI30N-A**
+
+<img src="media/DXI30N-A.png" width=200px>
+
+<details>
+ <summary>Технические характеристики</summary>
+</details>
+
+**Усилитель класса D i2s MAX98357A**
+
+<img src="media/MAX98357A.png" width=200px>
+
+<details>
+ <summary>Технические характеристики</summary>
+</details>
+
+**Плата расширения Grove Shield для XIAO с чипом управления батареей**
+
+<img src="media/Shield.png" width=200px>
+
+<details>
+ <summary>Технические характеристики</summary>
+</details>
+
+**Трёхосевой цифровой акселерометр Grove (LIS3DHTR)**
+
+<img src="media/LIS3DHTR.png" width=200px>
+
+<details>
+ <summary>Технические характеристики</summary>
+</details>
+
+**Кнопка Grove**
+
+<img src="media/button.png" width=200px>
+
+<details>
+ <summary>Технические характеристики</summary>
+</details>
+
+**Универсальные 20см кабели Grove - с 4-мя контактами**
+
+<img src="media/wires.png" width=200px>
+
+<details>
+ <summary>Технические характеристики</summary>
+</details>
+
+**Переходные кабели Grove с четырьмя контактами и женским разъёмом типа джампер**
+
+<img src="media/wieres2.png" width=200px>
+
+<details>
+ <summary>Технические характеристики</summary>
+</details>
+
 
